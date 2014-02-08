@@ -1,4 +1,4 @@
-Software failure / Guru Meditation
+Software Failure / Guru Meditation
 ==================================
 
 Javascript Class to display a Amiga Guru Meditation Tribute
