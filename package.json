@@ -1,6 +1,6 @@
 {
   "name": "amiga-guru-meditation",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Javascript Class to display a Amiga Guru Meditation Tribute",
   "main": "guru-meditation.js",
   "scripts": {

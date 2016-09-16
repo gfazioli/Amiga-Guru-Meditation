@@ -1,7 +1,7 @@
 Software Failure / Guru Meditation
 ==================================
 
-[![Latest Stable Version](https://poser.pugx.org/gfazioli/amiga-guru-meditation/v/stable.svg)](https://packagist.org/packages/gfazioli/amiga-guru-meditation) [![Total Downloads](https://poser.pugx.org/gfazioli/amiga-guru-meditation/downloads.svg)](https://packagist.org/packages/gfazioli/amiga-guru-meditation) [![Latest Unstable Version](https://poser.pugx.org/gfazioli/amiga-guru-meditation/v/unstable.svg)](https://packagist.org/packages/gfazioli/amiga-guru-meditation) [![License](https://poser.pugx.org/gfazioli/amiga-guru-meditation/license.svg)](https://packagist.org/packages/gfazioli/amiga-guru-meditation)
+![version](https://img.shields.io/badge/version-1.0.3-green.svg)
 
 Javascript Class to display a Amiga Guru Meditation Tribute
 

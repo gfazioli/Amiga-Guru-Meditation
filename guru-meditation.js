@@ -3,17 +3,16 @@
  * Usage: GuruMeditation.display( 'Your custom message' );
  *
  * @class           GuruMeditation
- * @author          =undo= <info@wpxtre.me>
- * @copyright       Copyright (C) 2012-2013 wpXtreme Inc. All Rights Reserved.
+ * @author          =undo= <giovambattista.fazioli@gmail.com>
  * @date            2014-02-04
- * @version         1.0.2
+ * @version         1.0.3
  */
 
 if ( typeof( window.GuruMeditation ) === 'undefined' ) {
   window.GuruMeditation = (function ()
   {
     var $t = {
-      version : '1.0.2',
+      version : '1.0.3',
       display : _display,
       hide    : _hide
     }, div, timer;
